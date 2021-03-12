@@ -43,11 +43,12 @@ nav ul li {
 
 nav .nav-left {
     display: flex;
-    align-self: flex-start;
+    align-items: center;
 }
 
 nav .nav-left ul {
     margin-left: 20px;
+    align-self: center;
 }
 
 nav .nav-right {
